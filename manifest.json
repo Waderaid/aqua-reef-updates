@@ -1,1 +1,7 @@
-{"apkUrl":"https://files.catbox.moe/lnwapj.apk","releaseNotes":"Built-in auto-updater: the app now checks for updates at startup and from the new UPD button on the control panel. Updates download with progress, verify SHA-256, and install with your on-headset confirmation.","sha256":"c10e80c7c2203f0dc10746a1bb749bdaf6894b014d1eafe369e543906e570538","versionCode":4,"versionName":"3.1"}
+{
+  "versionCode": 5,
+  "versionName": "4.0",
+  "apkUrl": "https://files.catbox.moe/d8odok.apk",
+  "sha256": "9a7cdbb687fb003e16aa62119e6d920ef77c59148f31faa7bd54c1362040e0c0",
+  "releaseNotes": "v4.0 Smart Reef II: tabbed control panel (REEF/FISH/PLAY/SYS), 3 decor sets, 4 substrates, 3 light themes, water chemistry sim (temp/algae/clarity), wave maker, bubbler control, snail + cleaner shrimp, 3 food types, feeding frenzy, pet mode, spotlight, photo mode, auto-feeder, day/night cycle, save/load, behavioral AI (mood, fear waves, cover hiding, sleep, formations, gaze curiosity, feeding order, tap memory, learned feeding times), 12 fish facts, toasts, boot overlay, accessibility options."
+}
