@@ -1,7 +1,1 @@
-{
-  "versionCode": 5,
-  "versionName": "4.0",
-  "apkUrl": "https://files.catbox.moe/d8odok.apk",
-  "sha256": "9a7cdbb687fb003e16aa62119e6d920ef77c59148f31faa7bd54c1362040e0c0",
-  "releaseNotes": "v4.0 Smart Reef II: tabbed control panel (REEF/FISH/PLAY/SYS), 3 decor sets, 4 substrates, 3 light themes, water chemistry sim (temp/algae/clarity), wave maker, bubbler control, snail + cleaner shrimp, 3 food types, feeding frenzy, pet mode, spotlight, photo mode, auto-feeder, day/night cycle, save/load, behavioral AI (mood, fear waves, cover hiding, sleep, formations, gaze curiosity, feeding order, tap memory, learned feeding times), 12 fish facts, toasts, boot overlay, accessibility options."
-}
+{"apkUrl":"https://files.catbox.moe/js7t4n.apk","releaseNotes":"v4.1 'MUSE iPhone' rename: app and Quest home-screen label are now 'Aqua Reef MUSE iPhone'. No behavior changes; installs over v4.0 with the same signature.","sha256":"8f35f7275c82409693fe9c925e585e1b2fc8df9fa280aa4e5c41cbb5ad278f30","versionCode":6,"versionName":"4.1"}
